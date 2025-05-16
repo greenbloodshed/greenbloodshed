@@ -8,13 +8,13 @@ I go by greenbloodshed in the tech/hacker space. Bonus points to those who can f
 
 🌱 I am currently learning Python.
 
-#TrekValues
+💫 #TrekValues
 
-#VulcanPhilosophy
+🖖 #VulcanPhilosophy
 
-#StarfleetSecurity
+🔐 #StarfleetSecurity
 
-#Gamer
+🎮 #Gamer
 <!--
 **greenbloodshed/greenbloodshed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
