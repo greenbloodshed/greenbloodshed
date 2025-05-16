@@ -1,12 +1,12 @@
 ## Welcome! 👋
 
-I go by greenbloodshed in the tech/hacker space. Bonus points to those who understand what my name is referencing. Here's a hint, it is paying homage to a certain fictional people.
+I go by greenbloodshed in the tech/hacker space. Bonus points to those who can figure out what my name is referencing. 💬 Here's a hint, it is paying homage to a certain fictional people.
 
-I created a Github to follow certain developer's work, explore more open source software, and learn.
+👯 I created a Github to follow certain developer's work, explore more open source software, and learn.
 
-I am an IT professional, aspiring security engineer and cybersecurity enthusiast. I'm also a life long gamer, and a Trekie.
+⚡ I am an IT professional, aspiring security engineer and cybersecurity enthusiast. I'm also a life long gamer, and a Trekie.
 
-I am currently learning Python.
+🌱 I am currently learning Python.
 
 #TrekValues
 #VulcanPhilosophy
