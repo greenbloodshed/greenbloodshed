@@ -4,14 +4,10 @@ I go by greenbloodshed in the tech/hacker space. Bonus points to those who can f
 
 👯 I created a Github to follow certain developer's work, explore more open source software, and learn.
 
-⚡ I am an IT professional, aspiring security engineer and cybersecurity enthusiast. I'm also a life long gamer, and a Trekie.
-
 🌱 I am currently learning Python. Check out my 'python-learning' repo to see my progress, or learn along!
 
 💫 #TrekValues
-
 🖖 #VulcanPhilosophy
-
 🔐 #StarfleetSecurity
 
 🎮 #Gamer
